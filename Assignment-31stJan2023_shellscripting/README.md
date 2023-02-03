@@ -1,4 +1,5 @@
 # Assignment_1
+
   1) List all files in a directory
   
   2) Read and check if directory exists or create it
