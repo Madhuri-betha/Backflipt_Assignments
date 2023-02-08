@@ -25,6 +25,7 @@ body {
   height: 200px;
   background-size:cover;
   margin-right: 20px;
+  background-image:url("error.jfif");
 }
 .news-info {
   flex-grow:1;
